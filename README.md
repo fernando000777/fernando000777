@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Fern.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning to code Friday Night Funkin'
